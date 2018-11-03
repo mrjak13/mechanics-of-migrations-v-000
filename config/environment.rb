@@ -1,10 +1,12 @@
+# config/environment.rb
+
 require 'rake'
 require 'active_record'
 require 'yaml/store'
 require 'ostruct'
 require 'date'
 
-# config/environment.rb
+
 
 require 'bundler/setup'
 Bundler.require
