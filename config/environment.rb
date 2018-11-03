@@ -1,5 +1,3 @@
-# config/environment.rb
-
 require 'rake'
 require 'active_record'
 require 'yaml/store'
